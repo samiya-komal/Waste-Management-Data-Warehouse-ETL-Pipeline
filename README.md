@@ -136,17 +136,17 @@ The dashboard enables users to:
 ## 📸 Project Screenshots
 
 ### 🔹 ETL Pipeline (SSIS)
-![ETL](ssis.png)
-![ETL2](ssis2.png)
+![ETL](screenshots/ssis.png)
+![ETL2](screenshots/ssis2.png)
 
 ### 🔹 Star Schema Design
-![Query](query.png)
+![Schema](screenshots/schema.png)
 
 ### 🔹 SQL Query 
-![Dashboard](dashboard.png)
+![Query](screenshots/query.png)
 
 ### 🔹 Power BI Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 ---
 
