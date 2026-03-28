@@ -133,6 +133,22 @@ The dashboard enables users to:
 * Develop a **web-based analytics interface**
 
 ---
+## 📸 Project Screenshots
+
+### 🔹 ETL Pipeline (SSIS)
+![ETL](ssis.png)
+![ETL2](ssis2.png)
+
+### 🔹 Star Schema Design
+![Query](query.png)
+
+### 🔹 SQL Query 
+![Dashboard](dashboard.png)
+
+### 🔹 Power BI Dashboard
+![Dashboard](dashboard.png)
+
+---
 
 ## 📌 Project Type
 
